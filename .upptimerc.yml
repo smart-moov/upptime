@@ -13,8 +13,6 @@ sites:
     url: https://chatbot.smart-moov.io/ping
   - name: Code API
     url: https://code.smart-moov.io/ping
-  - name: Non existing service :D
-    url: https://efoifzoinfzeonfznzeo.com/pwet
 
 assignees:
   - guillaume-gagnaire
