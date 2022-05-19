@@ -6,11 +6,16 @@ sites:
   - name: Dashboard
     url: https://app.smart-moov.io
   - name: API
-    url: https://api.smart-moov.io
+    url: https://api.smart-moov.io/ping
   - name: Campaign website
     url: https://campaigns.smart-moov.io
   - name: Campaign API
-    url: https://chatbot.smart-moov.io
+    url: https://chatbot.smart-moov.io/ping
+  - name: Code API
+    url: https://code.smart-moov.io/ping
+
+assignees:
+  - guillaume-gagnaire
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
