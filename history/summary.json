@@ -22,9 +22,9 @@
     "url": "https://api.smart-moov.io/ping",
     "icon": "https://favicons.githubusercontent.com/api.smart-moov.io",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 850,
     "timeMonth": 727,
     "timeYear": 727,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-01": 0
+    }
   },
   {
     "name": "Campaign website",
