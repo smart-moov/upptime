@@ -4,10 +4,10 @@
     "url": "https://app.smart-moov.io",
     "icon": "https://favicons.githubusercontent.com/app.smart-moov.io",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1707,
@@ -16,6 +16,7 @@
     "timeMonth": 1661,
     "timeYear": 1707,
     "dailyMinutesDown": {
+      "2022-07-21": 1,
       "2022-06-17": 13
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://api.smart-moov.io/ping",
     "icon": "https://favicons.githubusercontent.com/api.smart-moov.io",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -36,6 +37,7 @@
     "timeMonth": 780,
     "timeYear": 793,
     "dailyMinutesDown": {
+      "2022-07-21": 0,
       "2022-06-01": 12
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://campaigns.smart-moov.io",
     "icon": "https://favicons.githubusercontent.com/campaigns.smart-moov.io",
     "slug": "campaign-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,16 +57,18 @@
     "timeWeek": 1273,
     "timeMonth": 1152,
     "timeYear": 1133,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-21": 0
+    }
   },
   {
     "name": "Campaign API",
     "url": "https://chatbot.smart-moov.io/ping",
     "icon": "https://favicons.githubusercontent.com/chatbot.smart-moov.io",
     "slug": "campaign-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,16 +77,18 @@
     "timeWeek": 538,
     "timeMonth": 621,
     "timeYear": 634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-21": 0
+    }
   },
   {
     "name": "Code API",
     "url": "https://code.smart-moov.io/ping",
     "icon": "https://favicons.githubusercontent.com/code.smart-moov.io",
     "slug": "code-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,6 +97,8 @@
     "timeWeek": 714,
     "timeMonth": 668,
     "timeYear": 654,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-21": 0
+    }
   }
 ]
