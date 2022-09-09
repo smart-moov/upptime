@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1692,
-    "timeDay": 2088,
-    "timeWeek": 1730,
-    "timeMonth": 1614,
-    "timeYear": 1692,
+    "time": 1693,
+    "timeDay": 1885,
+    "timeWeek": 1666,
+    "timeMonth": 1633,
+    "timeYear": 1693,
     "dailyMinutesDown": {
       "2022-07-21": 45,
       "2022-06-17": 13
@@ -26,16 +26,16 @@
     "icon": "https://favicons.githubusercontent.com/api.smart-moov.io",
     "slug": "api",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 837,
-    "timeDay": 979,
-    "timeWeek": 1096,
-    "timeMonth": 965,
-    "timeYear": 837,
+    "uptimeYear": "99.97%",
+    "time": 841,
+    "timeDay": 1346,
+    "timeWeek": 1054,
+    "timeMonth": 987,
+    "timeYear": 841,
     "dailyMinutesDown": {
       "2022-07-21": 44,
       "2022-06-01": 12
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1193,
-    "timeDay": 1343,
-    "timeWeek": 1512,
-    "timeMonth": 1296,
-    "timeYear": 1193,
+    "time": 1196,
+    "timeDay": 1537,
+    "timeWeek": 1479,
+    "timeMonth": 1311,
+    "timeYear": 1196,
     "dailyMinutesDown": {
       "2022-07-21": 44
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 670,
-    "timeDay": 1627,
-    "timeWeek": 1007,
-    "timeMonth": 799,
-    "timeYear": 670,
+    "time": 674,
+    "timeDay": 1117,
+    "timeWeek": 930,
+    "timeMonth": 818,
+    "timeYear": 674,
     "dailyMinutesDown": {
       "2022-07-21": 44
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 686,
-    "timeDay": 896,
-    "timeWeek": 815,
-    "timeMonth": 781,
-    "timeYear": 686,
+    "time": 689,
+    "timeDay": 1117,
+    "timeWeek": 818,
+    "timeMonth": 804,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2022-07-21": 44
     }
