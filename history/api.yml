@@ -1,7 +1,7 @@
 url: https://api.smart-moov.io/ping
-status: up
-code: 200
-responseTime: 1257
-lastUpdated: 2022-11-18T23:05:50.292Z
+status: down
+code: 502
+responseTime: 1022
+lastUpdated: 2022-11-19T07:53:32.234Z
 startTime: Thu May 19 2022 10:33:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
