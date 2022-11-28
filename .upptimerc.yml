@@ -9,6 +9,8 @@ sites:
     url: https://api.smart-moov.io/ping
   - name: Campaign website
     url: https://campaigns.smart-moov.io
+  - name: Jobs website
+    url: https://jobs.smart-moov.io
   - name: Campaign API
     url: https://chatbot.smart-moov.io/ping
   - name: Code API
