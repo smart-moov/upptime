@@ -13,6 +13,8 @@ sites:
     url: https://chatbot.smart-moov.io/ping
   - name: Code API
     url: https://code.smart-moov.io/ping
+  - name: BeSTT API
+    url: https://bestt.smart-moov.io/ping
 
 assignees:
   - guillaume-gagnaire
