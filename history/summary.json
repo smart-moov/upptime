@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2069,
-    "timeDay": 4760,
-    "timeWeek": 3253,
-    "timeMonth": 2740,
-    "timeYear": 2069,
+    "time": 2086,
+    "timeDay": 5207,
+    "timeWeek": 3553,
+    "timeMonth": 2831,
+    "timeYear": 2086,
     "dailyMinutesDown": {
       "2022-09-27": 17,
       "2022-07-21": 45,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 1106,
-    "timeDay": 680,
-    "timeWeek": 890,
-    "timeMonth": 1813,
+    "timeDay": 884,
+    "timeWeek": 915,
+    "timeMonth": 1792,
     "timeYear": 1106,
     "dailyMinutesDown": {
       "2022-10-25": 395,
@@ -56,11 +56,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1243,
-    "timeDay": 934,
-    "timeWeek": 1082,
-    "timeMonth": 1287,
-    "timeYear": 1243,
+    "time": 1244,
+    "timeDay": 1242,
+    "timeWeek": 1141,
+    "timeMonth": 1295,
+    "timeYear": 1244,
     "dailyMinutesDown": {
       "2022-07-21": 44
     }
@@ -77,9 +77,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 737,
-    "timeDay": 697,
-    "timeWeek": 723,
-    "timeMonth": 902,
+    "timeDay": 773,
+    "timeWeek": 739,
+    "timeMonth": 900,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2022-07-21": 44
@@ -96,13 +96,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 712,
-    "timeDay": 563,
-    "timeWeek": 733,
-    "timeMonth": 744,
-    "timeYear": 712,
+    "time": 711,
+    "timeDay": 587,
+    "timeWeek": 718,
+    "timeMonth": 740,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2022-07-21": 44
     }
+  },
+  {
+    "name": "BeSTT API",
+    "url": "https://bestt.smart-moov.io/ping",
+    "icon": "https://icons.duckduckgo.com/ip3/bestt.smart-moov.io.ico",
+    "slug": "be-stt-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 468,
+    "timeDay": 468,
+    "timeWeek": 468,
+    "timeMonth": 468,
+    "timeYear": 468,
+    "dailyMinutesDown": {}
   }
 ]
