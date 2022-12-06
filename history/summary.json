@@ -128,18 +128,19 @@
     "url": "https://bestt.smart-moov.io/ping",
     "icon": "https://icons.duckduckgo.com/ip3/bestt.smart-moov.io.ico",
     "slug": "be-stt-api",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 465,
     "timeDay": 367,
     "timeWeek": 485,
     "timeMonth": 465,
     "timeYear": 465,
     "dailyMinutesDown": {
+      "2022-12-06": 0,
       "2022-12-01": 20
     }
   }
