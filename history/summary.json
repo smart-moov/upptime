@@ -4,10 +4,10 @@
     "url": "https://app.smart-moov.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.smart-moov.io.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2343,
@@ -16,6 +16,7 @@
     "timeMonth": 3374,
     "timeYear": 2343,
     "dailyMinutesDown": {
+      "2023-03-20": 2,
       "2022-09-27": 17,
       "2022-07-21": 45,
       "2022-06-17": 13
@@ -34,7 +35,7 @@
     "uptimeYear": "99.84%",
     "time": 1071,
     "timeDay": 756,
-    "timeWeek": 1042,
+    "timeWeek": 1045,
     "timeMonth": 1087,
     "timeYear": 1071,
     "dailyMinutesDown": {
@@ -109,9 +110,9 @@
     "url": "https://code.smart-moov.io/ping",
     "icon": "https://icons.duckduckgo.com/ip3/code.smart-moov.io.ico",
     "slug": "code-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -121,6 +122,7 @@
     "timeMonth": 642,
     "timeYear": 698,
     "dailyMinutesDown": {
+      "2023-03-20": 0,
       "2022-07-21": 44
     }
   },
