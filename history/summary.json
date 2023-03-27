@@ -6,9 +6,9 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2355,
     "timeDay": 5300,
@@ -16,7 +16,6 @@
     "timeMonth": 3407,
     "timeYear": 2355,
     "dailyMinutesDown": {
-      "2023-03-27": 12,
       "2022-09-27": 17,
       "2022-07-21": 45,
       "2022-06-17": 13
@@ -52,10 +51,10 @@
     "url": "https://campaigns.smart-moov.io",
     "icon": "https://icons.duckduckgo.com/ip3/campaigns.smart-moov.io.ico",
     "slug": "campaign-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1285,
@@ -64,6 +63,7 @@
     "timeMonth": 1432,
     "timeYear": 1285,
     "dailyMinutesDown": {
+      "2023-03-27": 1,
       "2022-07-21": 44
     }
   },
