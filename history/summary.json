@@ -4,11 +4,11 @@
     "url": "https://app.smart-moov.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.smart-moov.io.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2729,
     "timeDay": 20203,
@@ -16,7 +16,7 @@
     "timeMonth": 7071,
     "timeYear": 2729,
     "dailyMinutesDown": {
-      "2023-04-10": 9,
+      "2023-04-10": 0,
       "2022-09-27": 17,
       "2022-07-21": 45,
       "2022-06-17": 13
@@ -36,7 +36,7 @@
     "time": 1063,
     "timeDay": 873,
     "timeWeek": 1037,
-    "timeMonth": 968,
+    "timeMonth": 973,
     "timeYear": 1063,
     "dailyMinutesDown": {
       "2022-12-29": 15,
