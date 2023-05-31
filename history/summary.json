@@ -6,17 +6,17 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "94.44%",
-    "uptimeMonth": "94.29%",
-    "uptimeYear": "98.86%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "94.98%",
+    "uptimeMonth": "94.32%",
+    "uptimeYear": "98.87%",
     "time": 6230,
     "timeDay": 1413,
     "timeWeek": 1673,
-    "timeMonth": 11131,
+    "timeMonth": 11118,
     "timeYear": 6396,
     "dailyMinutesDown": {
-      "2023-05-30": 25,
+      "2023-05-30": 15,
       "2023-05-24": 492,
       "2023-05-23": 916,
       "2023-05-07": 997,
@@ -47,7 +47,7 @@
     "time": 1047,
     "timeDay": 519,
     "timeWeek": 812,
-    "timeMonth": 912,
+    "timeMonth": 919,
     "timeYear": 1061,
     "dailyMinutesDown": {
       "2022-12-29": 15,
@@ -72,7 +72,7 @@
     "time": 1300,
     "timeDay": 952,
     "timeWeek": 1229,
-    "timeMonth": 1376,
+    "timeMonth": 1382,
     "timeYear": 1311,
     "dailyMinutesDown": {
       "2022-07-21": 44
@@ -92,7 +92,7 @@
     "time": 1445,
     "timeDay": 776,
     "timeWeek": 1110,
-    "timeMonth": 1280,
+    "timeMonth": 1290,
     "timeYear": 1445,
     "dailyMinutesDown": {}
   },
@@ -110,7 +110,7 @@
     "time": 751,
     "timeDay": 550,
     "timeWeek": 673,
-    "timeMonth": 734,
+    "timeMonth": 732,
     "timeYear": 758,
     "dailyMinutesDown": {
       "2022-07-21": 44
@@ -130,7 +130,7 @@
     "time": 699,
     "timeDay": 719,
     "timeWeek": 821,
-    "timeMonth": 735,
+    "timeMonth": 727,
     "timeYear": 699,
     "dailyMinutesDown": {
       "2022-07-21": 44
