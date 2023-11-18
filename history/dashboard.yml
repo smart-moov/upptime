@@ -1,7 +1,7 @@
 url: https://app.smart-moov.io
-status: down
-code: 502
-responseTime: 1490
-lastUpdated: 2023-11-18T02:56:44.449Z
+status: up
+code: 200
+responseTime: 1400
+lastUpdated: 2023-11-18T03:07:03.808Z
 startTime: 2022-05-19T10:33:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
