@@ -12,9 +12,9 @@
     "uptimeYear": "98.79%",
     "time": 3205,
     "timeDay": 1835,
-    "timeWeek": 1740,
-    "timeMonth": 1707,
-    "timeYear": 3277,
+    "timeWeek": 1755,
+    "timeMonth": 1708,
+    "timeYear": 3276,
     "dailyMinutesDown": {
       "2023-11-14": 15,
       "2023-11-12": 20,
@@ -62,11 +62,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1077,
-    "timeDay": 448,
-    "timeWeek": 1049,
-    "timeMonth": 1029,
-    "timeYear": 991,
+    "time": 1078,
+    "timeDay": 1610,
+    "timeWeek": 1103,
+    "timeMonth": 1056,
+    "timeYear": 993,
     "dailyMinutesDown": {
       "2022-12-29": 15
     }
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1322,
-    "timeDay": 1060,
-    "timeWeek": 1313,
-    "timeMonth": 1275,
-    "timeYear": 1329,
+    "time": 1323,
+    "timeDay": 1360,
+    "timeWeek": 1393,
+    "timeMonth": 1277,
+    "timeYear": 1331,
     "dailyMinutesDown": {}
   },
   {
@@ -100,10 +100,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1350,
-    "timeDay": 1429,
-    "timeWeek": 1288,
-    "timeMonth": 1249,
+    "time": 1351,
+    "timeDay": 1575,
+    "timeWeek": 1337,
+    "timeMonth": 1266,
     "timeYear": 1347,
     "dailyMinutesDown": {}
   },
@@ -118,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 770,
-    "timeDay": 762,
-    "timeWeek": 587,
-    "timeMonth": 733,
-    "timeYear": 759,
+    "time": 771,
+    "timeDay": 1126,
+    "timeWeek": 655,
+    "timeMonth": 755,
+    "timeYear": 760,
     "dailyMinutesDown": {}
   },
   {
@@ -137,10 +137,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 710,
-    "timeDay": 824,
-    "timeWeek": 615,
-    "timeMonth": 664,
-    "timeYear": 700,
+    "timeDay": 943,
+    "timeWeek": 652,
+    "timeMonth": 681,
+    "timeYear": 702,
     "dailyMinutesDown": {}
   },
   {
@@ -150,19 +150,17 @@
     "slug": "be-stt-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 498,
-    "timeDay": 1235,
-    "timeWeek": 659,
-    "timeMonth": 491,
+    "timeDay": 1287,
+    "timeWeek": 656,
+    "timeMonth": 490,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2023-12-05": 10,
-      "2023-07-07": 27,
-      "2022-12-06": 21
+      "2023-07-07": 27
     }
   }
 ]
