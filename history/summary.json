@@ -6,8 +6,8 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "98.77%",
     "time": 3041,
@@ -16,7 +16,6 @@
     "timeMonth": 1908,
     "timeYear": 3119,
     "dailyMinutesDown": {
-      "2024-01-04": 4,
       "2023-12-30": 21,
       "2023-12-25": 23,
       "2023-12-17": 15,
